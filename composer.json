@@ -1,7 +1,7 @@
 {
     "name": "rakshit-ag/multi-session",
     "description": "Trans_SID (Session IDs in URLs) for Laravel 5 Projects",
-    "license": "GPL",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "iMi digital GmbH - Alexander Menk",
