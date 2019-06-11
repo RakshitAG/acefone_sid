@@ -9,7 +9,7 @@
         }
     ],
 
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
          "phing/phing": "dev-master"
     },
