@@ -8,7 +8,7 @@
             "email": "rakshit.agarwal@myrealdata.net"
         }
     ],
-
+    "minimum-stability": "dev",
     "require": {
     },
     "autoload": {
