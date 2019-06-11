@@ -10,7 +10,9 @@
     ],
 
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+         "phing/phing": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "App\\": "app/",
